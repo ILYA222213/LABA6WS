@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\bin\Debug\net8.0\LABA6WS.exe
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\bin\Debug\net8.0\LABA6WS.deps.json
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\bin\Debug\net8.0\LABA6WS.runtimeconfig.json
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\bin\Debug\net8.0\LABA6WS.dll
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\bin\Debug\net8.0\LABA6WS.pdb
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.dll
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\refint\LABA6WS.dll
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.pdb
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\LABA6WS.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\LABA6WS\LABA6WS\obj\Debug\net8.0\ref\LABA6WS.dll
